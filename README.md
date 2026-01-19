@@ -1,5 +1,5 @@
 ## ¡Hola! 👋
-## Aquí Ángel Gavín
+## Estudiante de DAW | Apasionado por desarrollo web y software | Java, Spring Boot, JS, MySQL, AWS
 
 <!--
 **AngelGavin/AngelGavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
