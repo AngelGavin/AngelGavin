@@ -6,4 +6,4 @@ Apasionado por la programación y el desarrollo de software. Me gusta aprender, 
 ---
 
 ### 💻 Tecnologías y herramientas
-Java | Spring Boot | HTML | CSS | JavaScript | MySQL | PostgreSQL | MongoDB | AWS | Git
+Java | Spring Boot | HTML | CSS | JavaScript | MySQL | PostgreSQL | MongoDB | AWS
