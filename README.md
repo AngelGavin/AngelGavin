@@ -9,7 +9,7 @@
 ### 🛠️ Tecnologías y herramientas  
   - Java  
   - Spring Boot  
-  - Acceso BD --> MySQL | PostgreSQL | MongoDB  
+  - Acceso BD → MySQL | PostgreSQL | MongoDB  
   - HTML | CSS | JS  
   - AWS  
 
