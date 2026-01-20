@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Ángel Gavín
 
-🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
+🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)   
 📍 CPIFP Pirámide - Huesca, España  
 💻 Apasionado por la programación y el desarrollo de software  
 
